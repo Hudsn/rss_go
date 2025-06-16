@@ -8,7 +8,7 @@ A small RSS metadata browser called "gator" where you can follow your favorite R
 ## Installation
 with Go installed: 
 ```
-go get github.com/hudsn/rss_go
+go install github.com/hudsn/rss_go
 ```
 
 ## Usage 
